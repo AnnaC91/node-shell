@@ -8,5 +8,12 @@ module.exports = {
         var d = new Date();
         process.stdout.write(d.toString());
         process.stdout.write('\nprompt > ');
+    },
+
+    ls: function(){
+        var fs = require('fs');
+        var files = fs.readdirSync('.');
+        process.stdout.write(files);
+        process.stdout.write('\nprompt > ');
     }
 }
