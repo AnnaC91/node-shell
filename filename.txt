@@ -1,0 +1,23 @@
+Hi, my name is Michelle.
+
+I go to Grace Hopper at Fullstack Academy.  I live in Brooklyn.
+
+Bye!
+
+Hi, my name is Karen.
+
+I go to Grace Hopper at Fullstack Academy.  I live here.
+
+Adios!
+
+Hi, my name is Katie.
+
+I go to Grace Hopper at Fullstack Academy.  I live in a box.
+
+bye bye!
+
+Hi, my name is Joy.
+
+I go to Grace Hopper at Fullstack Academy.  I live in a shoe.
+
+bye bye bye!
